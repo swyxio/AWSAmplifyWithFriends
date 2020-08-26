@@ -42,9 +42,5 @@
   },
   "keywords": [],
   "author": "swyx",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sw-yx/predone/issues"
-  },
-  "homepage": "https://github.com/sw-yx/predone#readme"
+  "license": "MIT"
 }
