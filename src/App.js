@@ -7,7 +7,11 @@ import { withAuthenticator, AmplifySignOut } from "@aws-amplify/ui-react";
 function App() {
   return (
     <header className="App-header">
-      <img src={logo} className="App-logo" alt="logo" />
+      <img
+        src={"https://miro.medium.com/max/1024/1*JN6lRLbLyPQSKD5w3IR5Rw.jpeg"}
+        className="App-logo"
+        alt="logo"
+      />
       <p>
         Edit <code>src/App.js</code> and save to reload.
         <AmplifySignOut />
