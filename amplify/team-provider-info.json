@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-predone-dev-13126-authRole",
+            "UnauthRoleArn": "arn:aws:iam::754933769358:role/amplify-predone-dev-13126-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::754933769358:role/amplify-predone-dev-13126-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-predone-dev-13126-deployment",
+            "UnauthRoleName": "amplify-predone-dev-13126-unauthRole",
+            "StackName": "amplify-predone-dev-13126",
+            "StackId": "arn:aws:cloudformation:us-east-1:754933769358:stack/amplify-predone-dev-13126/fb89adf0-e7c1-11ea-a84e-0a8742d8c83d",
+            "AmplifyAppId": "d3sbck3o4nyijj"
+        },
+        "categories": {
+            "auth": {
+                "predonec8892e91": {}
+            }
+        }
+    }
+}

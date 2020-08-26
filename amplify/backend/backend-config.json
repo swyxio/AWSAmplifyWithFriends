@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"predonec8892e91": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
